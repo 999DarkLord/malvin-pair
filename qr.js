@@ -74,7 +74,7 @@ var randomItem = selectRandomItem(items);
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hey there, MALVIN-XD User!* 👋🏻
 
-Thanks for using *MALVIN-XD* — your session has been successfully created!
+Thanks for using *cmxcix* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
